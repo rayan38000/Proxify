@@ -6,6 +6,10 @@
 
 ![Proxify Banner](https://media.discordapp.net/attachments/1159608437118865541/1279237669007659048/image.png?ex=66d3b66b&is=66d264eb&hm=5c6517d838295b680c8c756a4997219194e8f30880675d4f2dfd0b3da546b1be&=&format=webp&quality=lossless)
 
+
+<p align="center"><a href='https://mega.nz/file/cDVU1ZbQ#bLIN9zsLEn0q8QbR-H0FcFpFp1B40RnUJncwuDOiGJY'>CLICK HERE FOR WATCHING VIDEO</a></p>
+
+
 ---
 
 ## 🛠️ Features
