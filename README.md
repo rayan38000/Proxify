@@ -52,7 +52,7 @@ This section of the Proxify project is dedicated to checking and analyzing proxi
 
 I did not add features to differentiate between elite proxies and anonymous proxies because it is difficult to distinguish them. I tried to compare headers between these two types of proxies, but there is not much concrete information available in this area. It is indeed possible to check for the absence of certain headers that might indicate an elite proxy, but this verification remains insufficient. Out of caution, I preferred not to handle it.
 
-### 🔎 Proxy Information
+## 🔎 Proxy Information
 
 The Proxy Information feature allows you to gather detailed information about a specific proxy, including its headers and anonymity level. This functionality is particularly useful for analyzing and verifying proxies to ensure they meet your requirements. Here’s a breakdown of what this feature offers:
 
