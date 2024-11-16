@@ -4,7 +4,7 @@
 
 ---
 
-![Proxify Banner](https://media.discordapp.net/attachments/1159608437118865541/1279237669007659048/image.png?ex=66d3b66b&is=66d264eb&hm=5c6517d838295b680c8c756a4997219194e8f30880675d4f2dfd0b3da546b1be&=&format=webp&quality=lossless)
+![Proxify Banner](https://github.com/rayan38000/Proxify/blob/main/image.png)
 
 
 <p align="center"><a href='https://mega.nz/file/cDVU1ZbQ#bLIN9zsLEn0q8QbR-H0FcFpFp1B40RnUJncwuDOiGJY'>CLICK HERE FOR WATCHING VIDEO</a></p>
@@ -48,7 +48,7 @@ By simply editing these text files, users have full control over the sources the
 ## ✅ Proxy Checker
 This section of the Proxify project is dedicated to checking and analyzing proxies. The feature checks the status and characteristics of proxies, including their type, speed, anonymity, and geographic location. Here is an overview of this feature:
 
-![Proxy Checker](https://media.discordapp.net/attachments/1159608437118865541/1279239709125513277/image.png?ex=66d3b851&is=66d266d1&hm=0cf34d5af3bfcbf2b7cb2a0cf28bb9816739899ce34949691e8374db091913c2&=&format=webp&quality=lossless&width=1100&height=644)
+![Proxy Checker](https://github.com/rayan38000/Proxify/blob/main/demo.png)
 
 **Supported Proxy Types**: HTTP, SOCKS4, SOCKS5.
 
